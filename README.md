@@ -43,7 +43,7 @@ This project is inspired by the IEEE conference paper:
 ## 🖼️ Demo
 
 ### 🏠 Home Page
-![Home](static/images/Screenshot 2026-03-21 at 9.37.03 PM.png)
+![Home](static/images/home.png)
 
 ---
 
